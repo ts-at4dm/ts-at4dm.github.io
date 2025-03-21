@@ -4,11 +4,11 @@ jQuery(document).ready(function($){
         $(this).addClass('active');
     })
 });
-window.addEventListener('scroll', function() {
-    const scrollPosition = window.pageYOffset;
-    const backgroundSpeed = 0.8; 
-    document.body.style.backgroundPosition = `center ${scrollPosition * backgroundSpeed}px`;
-  });
+// window.addEventListener('scroll', function() {
+//     const scrollPosition = window.pageYOffset;
+//     const backgroundSpeed = 0.8; 
+//     document.body.style.backgroundPosition = `center ${scrollPosition * backgroundSpeed}px`;
+//   });
   window.addEventListener('scroll', function() {
     const homeButton = document.getElementById('homeButton');
     const s2Section = document.getElementById('s2');
