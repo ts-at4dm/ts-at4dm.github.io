@@ -9,7 +9,7 @@
 }
 body {
     background-image: url(../images/background.jpg);
-    background-attachment: scroll;
+    background-attachment: fixed;
     color: rgb(184, 236, 76);
     text-align: center;
     display: block;
