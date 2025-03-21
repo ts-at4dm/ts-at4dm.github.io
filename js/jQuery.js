@@ -7,7 +7,7 @@ jQuery(document).ready(function($){
 // window.addEventListener('scroll', function() {
 //     const scrollPosition = window.pageYOffset;
 //     const backgroundSpeed = 0.8; 
-//     document.body.style.backgroundPosition = `center ${scrollPosition * backgroundSpeed}px`;
+//     document.body.style.backgroundPosition = `center ${scrollPosition * backgroundSpeed}px`; 
 //   });
   window.addEventListener('scroll', function() {
     const homeButton = document.getElementById('homeButton');

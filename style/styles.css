@@ -7,7 +7,7 @@
     font-weight:lighter;
     font-style: normal;
 }
-body {
+body { 
     background-image: url(../images/background.jpg);
     background-attachment: fixed;
     color: rgb(184, 236, 76);
