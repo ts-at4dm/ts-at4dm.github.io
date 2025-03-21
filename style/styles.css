@@ -240,10 +240,10 @@ i:hover::after {
     padding: 20px;
     height: 100vh;
 }
-.contact-intro {
+/* .contact-intro {
     /* margin-top: 100px;
     gap: 600px; */
-}
+/* } */
 .contact ul {
     display: flex;
     list-style-type: none;
